@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Soujanya<br><br>💻 Aspiring Software Developer<br>🔐 Curious about Cyber Security<br>🤖 Exploring AI & new technologies<br>🚀 Building responsive and user-friendly applications
+👋 Hi, I’m Soujanya<br><br>🌐 Passionate about Web & Software Development<br>🔐 Curious about Cyber Security<br>🤖 Exploring AI & new technologies<br>🚀 Building responsive and user-friendly applications <br> 🚀 Always learning and building better solutions combined it
 
 
 ## 🌐 Socials:
